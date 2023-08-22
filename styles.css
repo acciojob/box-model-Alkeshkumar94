@@ -14,6 +14,7 @@
 	height:100px;
 	width:100px;
 	border-radius:50%;
+	margin:5px
 }
 .item1{
 	background-color:green;
@@ -24,3 +25,4 @@
 .item3{
 	background-color:red;
 }
+boxmodel
